@@ -1,4 +1,4 @@
-<center><img src="src\data\google-37.png" width="100" height="100" alt="Logo da minha empresa"></center>
+<img src="src\data\google-37.png" width="100" height="100" alt="Logo Google"> <img src="src\data\letsdefend.png" width="100" height="100" alt="Logo Let's Defend"> <img src="src\data\hackershive.png" width="110" height="100" alt="Logo Hackers Hive">
 
 ## Estudos em Cybersecurity ️
 ### *Repositório em construção...*
