@@ -13,7 +13,7 @@ Este repositório documenta minha jornada de aprendizado em Cybersecurity, com f
     * [Protocolo HTTP - Relatório de Incidente](https://github.com/PedroLaraa/CyberSec-Google/tree/main/src/Connect_and_Protect-Networks_and_Network_Security)
     * [Auditoria de CiberSegurança - Inglês](https://github.com/PedroLaraa/CyberSec-Google/tree/main/src/Play_It_Safe-Manage_Security_Risks)
     * [DoS Flood Attack - Relatório de Incidente](https://github.com/PedroLaraa/CyberSec-Google/tree/main/src/Connect_and_Protect-Networks_and_Network_Security)
-    * [Data Leak - Relatório de Incidente](https://github.com/PedroLaraa/CyberSec-Google/tree/main/src/Connect_and_Protect-Networks_and_Network_Security)
+    * [Data Breach - Relatório de Incidente](https://github.com/PedroLaraa/CyberSec-Google/tree/main/src/Connect_and_Protect-Networks_and_Network_Security)
 * **Certificações:** *CompTIA Security+ (Em preparação)*.
 
 **Tecnologias:**
