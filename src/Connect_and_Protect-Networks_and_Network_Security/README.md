@@ -1,4 +1,4 @@
-## Materiais desenvolvidos durante o curo Connect And Protect: Networks and Network Security.
+## Materiais desenvolvidos durante o curso Connect And Protect: Networks and Network Security.
 
 * **Análise de Incidente - DNS Spoofing:**
     * [Relatório de Incidente](https://docs.google.com/document/d/1YcORUXdUd13WxttPh-9hiqgqcoWxjdgObgSzEOPLjA4/edit?usp=sharing)
