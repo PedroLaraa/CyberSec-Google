@@ -7,3 +7,7 @@
 * **Análise de Incidente - DoS Syn Flood:**
     * [Relatório de Incidente](https://docs.google.com/document/d/1AYTMQnNkwFW-klj1zT1TS-1N8cCti-DfIVFl68hsVZo/edit?usp=sharing)
     * [Logs Wireshark TCP/HTTP](https://docs.google.com/spreadsheets/d/1enpRzrIao3J2Lp2tOI0hmu1Cu7D7CjLGhFAiTiR9J64/edit?gid=218501934#gid=218501934)
+
+ * **Analysis of Network Hardening:**
+    * [Security Risk Assesment Report](https://docs.google.com/document/d/1LjMWQ4lqk6ASvehewrMRUC_mLytX0jTPy8zCilPMxWs/edit?usp=sharing)
+    * [Network Hardening Tools](https://docs.google.com/spreadsheets/d/1qsG4zJ-FtX-kOKW_3OnkeLHBHmwCo3HhvB2hibsPDrw/edit?usp=sharing)
