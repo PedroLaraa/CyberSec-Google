@@ -1,6 +1,7 @@
 <center><img src="src\data\google-37.png" width="100" height="100" alt="Logo da minha empresa"></center>
 
-## Formação em Cybersecurity ️
+## Estudos em Cybersecurity ️
+### *Repositório em construção...*
 
 **Objetivo:**
 
